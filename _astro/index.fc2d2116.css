@@ -20,10 +20,10 @@ ol:where(.astro-UJ4L2GCI) {
 }
 
 .content:where(.astro-UJ4L2GCI) {
-    margin-left: 5em
+    text-align: center
 }
 
 .section:where(.astro-UJ4L2GCI) {
     max-width: 50em;
-    margin-left: 4em
+    text-align: center
 }
