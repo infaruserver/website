@@ -4,7 +4,8 @@ main:where(.astro-UJ4L2GCI) {
 }
 
 .header:where(.astro-UJ4L2GCI) {
-    margin-left: 2em;
+    margin-left: 2em;;
+    max-width: 90%;
 }
 
 .container:where(.astro-UJ4L2GCI) {
@@ -13,18 +14,21 @@ main:where(.astro-UJ4L2GCI) {
     font-size: 1em;
     width: 100vw;
     line-height: 3em;
-    max-width: 100%;
+    max-width: 90%;
 }
 
 ol:where(.astro-UJ4L2GCI) {
-    margin-left: 1.2em
+    margin-left: 1.2em;
+    max-width: 90%;
 }
 
 .content:where(.astro-UJ4L2GCI) {
-    margin-left: 3em
+    margin-left: 3em;
+    max-width: 90%;
 }
 
 .section:where(.astro-UJ4L2GCI) {
     max-width: 50em;
-    margin-left: 1.2em
+    margin-left: 1.2em;
+    max-width: 90%;
 }
