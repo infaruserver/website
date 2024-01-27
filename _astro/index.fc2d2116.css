@@ -1,12 +1,10 @@
 main:where(.astro-UJ4L2GCI) {
     padding-top: 2em;
-    background-color: #f2f2f2;
-    max-width: 100%;
+    background-color: #f2f2f2
 }
 
 .header:where(.astro-UJ4L2GCI) {
-    margin-left: 7em;
-    max-width: 50em;
+    margin-left: 2em;
 }
 
 .container:where(.astro-UJ4L2GCI) {
@@ -14,21 +12,18 @@ main:where(.astro-UJ4L2GCI) {
     padding: 2em;
     font-size: 1em;
     width: 100vw;
-    line-height: 2em;
-    max-width: 50em;
+    line-height: 2em
 }
 
 ol:where(.astro-UJ4L2GCI) {
-    margin-left: 6.2em;
-    max-width: 50em;
+    margin-left: 1.2em
 }
 
 .content:where(.astro-UJ4L2GCI) {
-    margin-left: 7em;
-    max-width: 50em;
+    margin-left: 2em
 }
 
 .section:where(.astro-UJ4L2GCI) {
     max-width: 50em;
-    margin-left: 6.2em
+    margin-left: 1.2em
 }
