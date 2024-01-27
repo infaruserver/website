@@ -1,14 +1,10 @@
 main:where(.astro-UJ4L2GCI) {
     padding-top: 2em;
     background-color: #f2f2f2;
-    align-items: center;
-    display: flex;
-    justify-content: center;
 }
 
 .header:where(.astro-UJ4L2GCI) {
-    text-align: center;
-    align-items: center;
+    text-align: center
 }
 
 .container:where(.astro-UJ4L2GCI) {
@@ -16,8 +12,7 @@ main:where(.astro-UJ4L2GCI) {
     padding: 2em;
     font-size: 1em;
     width: 100vw;
-    line-height: 2em;
-    align-items: center;
+    line-height: 2em
 }
 
 ol:where(.astro-UJ4L2GCI) {
@@ -25,12 +20,10 @@ ol:where(.astro-UJ4L2GCI) {
 }
 
 .content:where(.astro-UJ4L2GCI) {
-    margin-left: 2em;
-    align-items: center;
+    margin-left: 5em
 }
 
 .section:where(.astro-UJ4L2GCI) {
     max-width: 50em;
-    margin-left: 1.2em;
-    align-items: center;
+    margin-left: 4em
 }
