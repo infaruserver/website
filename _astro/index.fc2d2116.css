@@ -1,10 +1,11 @@
 main:where(.astro-UJ4L2GCI) {
     padding-top: 2em;
     background-color: #f2f2f2;
+    margin-left: 5em;
 }
 
 .header:where(.astro-UJ4L2GCI) {
-    text-align: center
+    margin-left: 2em
 }
 
 .container:where(.astro-UJ4L2GCI) {
@@ -20,12 +21,10 @@ ol:where(.astro-UJ4L2GCI) {
 }
 
 .content:where(.astro-UJ4L2GCI) {
-    right: 50%;
-    left: 50%;
+    margin-left: 2em
 }
 
 .section:where(.astro-UJ4L2GCI) {
     max-width: 50em;
-    right: 50%;
-    left: 50%;
+    margin-left: 1.2em
 }
