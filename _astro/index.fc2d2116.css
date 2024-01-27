@@ -13,7 +13,7 @@ main:where(.astro-UJ4L2GCI) {
     font-size: 1em;
     width: 100vw;
     line-height: 2em;
-    max-width: 90%;
+    max-width: 80%;
 }
 
 ol:where(.astro-UJ4L2GCI) {
@@ -22,11 +22,11 @@ ol:where(.astro-UJ4L2GCI) {
 
 .content:where(.astro-UJ4L2GCI) {
     margin-left: 3em;
-    max-width: 90%;
+    max-width: 80%;
 }
 
 .section:where(.astro-UJ4L2GCI) {
     max-width: 50em;
     margin-left: 1.2em;
-    max-width: 90%;
+    max-width: 80%;
 }
