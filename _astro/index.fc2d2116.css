@@ -20,12 +20,12 @@ ol:where(.astro-UJ4L2GCI) {
 }
 
 .content:where(.astro-UJ4L2GCI) {
-    top: 50%;
+    right: 50%;
     left: 50%;
 }
 
 .section:where(.astro-UJ4L2GCI) {
     max-width: 50em;
-    top: 50%;
+    right: 50%;
     left: 50%;
 }
