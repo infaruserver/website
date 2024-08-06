@@ -146,10 +146,10 @@ h1:where(.astro-SEFMXPGK) {
 }
 
 #text:where(.astro-SEFMXPGK) {
-    max-width: 35vw;
+    max-width: 55vw;
     margin-left: 2em;
     background-color: #fff;
-    padding: 0 4em .7em 1em;
+    padding: 0 .5em .7em 1em;
     position: absolute;
     top: 27vh
 }
